@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BFWOMz/Rj/E=",
+  "dgSpecHash": "Cp7MPN/AQ0A=",
   "success": true,
   "projectFilePath": "/home/marcio-scae/marcio-scae/ApiNaPratica/LibraryCrud/LibraryCrud.csproj",
   "expectedPackageFiles": [
+    "/home/marcio-scae/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/marcio-scae/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/home/marcio-scae/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/marcio-scae/.nuget/packages/microsoft.aspnetcore.jsonpatch/8.0.11/microsoft.aspnetcore.jsonpatch.8.0.11.nupkg.sha512",
     "/home/marcio-scae/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/8.0.11/microsoft.aspnetcore.mvc.newtonsoftjson.8.0.11.nupkg.sha512",

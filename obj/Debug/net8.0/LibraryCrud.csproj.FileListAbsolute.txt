@@ -137,3 +137,6 @@
 /home/marcio-scae/marcio-scae/ApiNaPratica/LibraryCrud/obj/Debug/net8.0/LibraryCrud.pdb
 /home/marcio-scae/marcio-scae/ApiNaPratica/LibraryCrud/obj/Debug/net8.0/LibraryCrud.genruntimeconfig.cache
 /home/marcio-scae/marcio-scae/ApiNaPratica/LibraryCrud/obj/Debug/net8.0/ref/LibraryCrud.dll
+/home/marcio-scae/marcio-scae/ApiNaPratica/LibraryCrud/obj/Debug/net8.0/LibraryCrud.sourcelink.json
+/home/marcio-scae/marcio-scae/ApiNaPratica/LibraryCrud/bin/Debug/net8.0/AutoMapper.dll
+/home/marcio-scae/marcio-scae/ApiNaPratica/LibraryCrud/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
